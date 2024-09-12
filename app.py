@@ -82,4 +82,4 @@ if source_radio == "VIDEO":
         st.write("Click on 'Browse Files' in the sidebar to run inference on an video")
 
 if source_radio == "WEBCAM":
-    play_live_camara()
+    play_video(0)
